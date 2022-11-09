@@ -10,5 +10,5 @@ def find_max(data):
         if i>mx:
             mx=i
     return mx
-print(find_max([1,2,3]))
+print(find_max([1,4,2,3]))
     
